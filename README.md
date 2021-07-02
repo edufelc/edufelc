@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edufelc, I'm a tech student from Brasília, Brazil.
+- 👋 Hi, I’m Eduardo, I'm a tech student from Brasília, Brazil.
 - 👀 I’m interested in web development and AI.
 - 🌱 I’m currently learning CSS, Javascript and Python, but still a beginner in these languages.
 - 📫 How to reach me: eduufelippe@gmail.com
